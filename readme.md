@@ -55,7 +55,6 @@
 
 4. Add eslint script to fix the errors `"lint:fix": "npx eslint --fix ."`
 
-## Shopping cart deployed heroku link  👇 
-[https://obscure-temple-39637.herokuapp.com](https://obscure-temple-39637.herokuapp.com)
+
 
     
